@@ -1,2 +1,2 @@
-# -gradle-HelloWorld
+# -gradle-s/lombok
 Trabalho cury
